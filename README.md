@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) Concepts
 
-Welcome to my journey of learning Data Structures and Algorithms! This repository contains my notes, explanations, and examples as I explore fundamental DSA concepts. I hope this will be helpful for beginners who are also starting their DSA learning journey.
+Welcome to my journey of learning Data Structures and Algorithms! This repository contains my notes, explanations, and examples as I explore fundamental DSA concepts. I hope this will be helpful for beginners as well as intermediate learners and anyone looking to strengthen their understanding of DSA fundamentals.
 
 ## Introduction to Data Structures
 
